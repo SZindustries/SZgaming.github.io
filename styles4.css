@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: block;
+    margin: 5px;
+    font-family: Georgia ;
+    background-color: black;
+    background-image: url(imagenes/logogeneral.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+header {
+    font-weight: bold;
+    text-align: center ;
+    font-size: 30px;
+    color: aqua;
+    font-family: system-ui;
+    border: 5px solid #273c75;
+    margin: 30px 500px;
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 300px;
+}
+
+nav{
+    width: 676px;
+    border: solid 5px #273c75;
+    padding: 8px;
+    margin: auto 300px;
+    margin-bottom: 15px;
+    
+}
+
+nav li, .juegos {
+    color: white;
+    margin: 5px 25px;
+    border: 3px #0652DD solid;
+    padding: 5px 10px;
+    padding-left: 35px;
+    display: inline-block;
+    list-style: none;
+}
+
+.juegos {
+    color: white;
+    margin: 5px 25px;
+    border: 3px #0652DD solid;
+    padding: 5px 10px;
+    padding-left: 35px;
+    display: inline-block;
+    list-style: none;
+}
+
